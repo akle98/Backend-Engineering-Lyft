@@ -1,5 +1,5 @@
 # Lyft Back-End Engineering Virtual Experience Program
-This project forms part of the Back-End Engineering virtual internship program offered by Forage in collaboration with Lyft.
+This project is the Back-End Engineering virtual internship program offered by Forage in collaboration with Lyft.
 ## Overview of the Virtual Internship Program
 The Back-End Engineering virtual internship program aims to provide practical skills and hands-on experience in diverse aspects of software development. The program encompasses four main tasks, each focusing on a specific area of expertise. 
 ## Concept covered
